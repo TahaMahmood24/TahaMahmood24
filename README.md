@@ -29,14 +29,14 @@ As a dedicated graduate student in Data Science, I'm thrilled to welcome you to 
 <a href="https://instagram.com/tahamahmood10" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/EmperorTaha" target="_blank">
+<a href="https://github.com/tahamahmood24" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div> 
 
 ## Most Used Languages
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emperortaha&show_icons=true&theme=merko&locale=en&layout=compact" alt="emperortaha" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahamahmood24&show_icons=true&theme=merko&locale=en&layout=compact" alt="tahamahmood24" /></p>
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emperortaha&label=Profile%20views&color=0e75b6&style=flat" alt="emperortaha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahamahmood24&label=Profile%20views&color=0e75b6&style=flat" alt="tahamahmood24" /> </p>
 </br>
